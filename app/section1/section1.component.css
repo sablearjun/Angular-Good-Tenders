@@ -1,0 +1,22 @@
+.SearchSection{
+    color: white;
+    margin-top: -30px;
+}
+#para1{
+    padding-top: 200px;
+}
+#para2{
+    margin-top:20px;
+}
+#tryit{
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+.imageContainer {
+    width:100%; 
+    height:500px; 
+}
+#cards{
+    margin-top:80px;
+    margin-bottom: 100px;
+}
